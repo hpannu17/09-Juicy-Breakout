@@ -27,7 +27,7 @@ margin_left = -8.0
 margin_top = -8.0
 margin_right = 8.0
 margin_bottom = 8.0
-color = Color( 0.0156863, 0.756863, 0.984314, 1 )
+color = Color( 0.611765, 0.0156863, 0.984314, 1 )
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource( 2 )
